@@ -1,6 +1,6 @@
 # Musfira Attique Ashar
 
-Software Engineer, specialising in GenAI/ML; and mostly building slightly intelligent systems that understand what you're asking them
+Software Engineer, specialising in GenAI/ML; and mostly building _slightly_ intelligent systems that understand what you're asking them
 
 ## What I've Built
 
