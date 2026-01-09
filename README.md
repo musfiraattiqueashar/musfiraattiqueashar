@@ -1,11 +1,19 @@
 # Musfira Attique Ashar
 
-Software Engineer | Specialising in Gen AI/ML; and mostly building slightly intelligent systems that actually understand what you're asking them. I work with agentic AI architectures and LLM orchestration, multi-agent systems and API integrations 
+Software Engineer, specialising in GenAI/ML; and mostly building slightly intelligent systems that understand what you're asking them
 
-## What I Build
+## What I've Built
+
+- Backend systems & REST APIs
+- Service-oriented backend architectures
+- AI-powered systems that sit between language and logic
+- Data science analytic workflows and visualisations
+- UI themes, tooling, and developer-experience projects
+
+## What I'm Building 
 
 ### For Work
-AI products that bridge the gap between natural language and structured actions though agents, workflow orchestration systems, and tools that extract meaning from unstructured data
+AI assisted agent-based systems that bridge the gap between natural language and structured actions and backend operations though workflow orchestration systems.
 
 ### For Myself
 Suspiciously niche automations
