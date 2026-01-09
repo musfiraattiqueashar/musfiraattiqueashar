@@ -2,8 +2,6 @@
 
 Software Engineer | Specialising in Gen AI/ML; and mostly building slightly intelligent systems that actually understand what you're asking them. I work with agentic AI architectures and LLM orchestration, multi-agent systems and API integrations 
 
-I also make tiny games with Unity
-
 ## What I Build
 
 ### For Work
@@ -11,6 +9,7 @@ AI products that bridge the gap between natural language and structured actions 
 
 ### For Myself
 Suspiciously niche automations
+I also make tiny games with Unity
 
 ## Tech Stack
 
